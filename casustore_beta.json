@@ -1,0 +1,18 @@
+{
+  "name": "🏪 CasuStore Beta",
+  "package": "com.kodastudios.casustore",
+  "developer": "Koda Studios™",
+  "description": "O CasuStore Beta é o aplicativo oficial de testes da CasuStore.",
+  "versionName": "0.3 Beta",
+  "versionCode": 3,
+  "downloads": "100",
+  "rating": "5.0",
+  "size": "15 MB",
+  "category": "Ferramentas",
+  "apk": "",
+  "changelog": [
+    "Primeira versão do CasuStore Beta",
+    "Tela de detalhes adicionada",
+    "Melhorias na navegação"
+  ]
+}
