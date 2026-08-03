@@ -1,12 +1,12 @@
 {
   "app": "OpenCine",
   "package": "opencine.apliiya",
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apk": "https://github.com/kodastudiosoficialdev-adk/Koda-Apps/releases/download/v1.0.0/app3646903-gle4zc.apk",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apk": "https://github.com/kodastudiosoficialdev-adk/Koda-Apps/releases/download/1.0.1/opencine.apk",
   "changelog": [
     "Primeira versão oficial",
-    "Interface moderna",
+    "Correções de bug",
     "Melhor desempenho"
   ]
 }
