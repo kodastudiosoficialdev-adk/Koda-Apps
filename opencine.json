@@ -1,33 +1,40 @@
 {
+  "name": "🎬 OpenCine",
   "app": "OpenCine",
   "package": "opencine.apliiya",
+  "developer": "Koda Studios™",
+  "description": "OpenCine é um aplicativo para assistir filmes e séries com uma interface moderna e fácil de usar.",
   "versionCode": 2,
   "versionName": "1.0.1",
   "apk": "https://github.com/kodastudiosoficialdev-adk/Koda-Apps/releases/download/1.0.1/opencine.apk",
+  "downloads": "1.000 Downloads",
+  "rating": "4.9",
+  "size": "28 MB",
+  "category": "Entretenimento",
   "changelog": [
-    "Primeira versão oficial",
+    "Lançamento oficial",
     "Correções de bug",
     "Melhor desempenho"
-  ]
+  ],
   "versionHistory": [
-  {
-    "versionName": "1.0.1",
-    "versionCode": 2,
-    "date": "05/08/2026",
-    "changes": [
-      "Correções de bug",
-      "Melhor desempenho"
-    ]
-  },
-  {
-    "versionName": "1.0",
-    "versionCode": 1,
-    "date": "Lançamento inicial",
-    "changes": [
-      "Primeira versão oficial",
-      "Interface moderna",
-      "Melhor desempenho"
-    ]
-  }
+    {
+      "versionName": "1.0.1",
+      "versionCode": 2,
+      "date": "05/08/2026",
+      "changes": [
+        "Correções de bug",
+        "Melhor desempenho"
+      ]
+    },
+    {
+      "versionName": "1.0",
+      "versionCode": 1,
+      "date": "Lançamento inicial",
+      "changes": [
+        "Primeira versão oficial",
+        "Interface moderna",
+        "Melhor desempenho"
+      ]
+    }
   ]
 }
